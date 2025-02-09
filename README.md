@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am __Mochamad Dimas Putra Hermawan__, a passionate __Full Stack Developer__ and __Software Engineer__ with 9 months of work experience, including the process of building applications. Currently working as a backend-focused software developer at SuperSpring. <br>In addition to my full-time job, I also offer freelance services for developing web and <br>mobile applications, from development to deployment. <br>Right now, I am expanding my knowledge in AI, including machine learning and its <br>various aspects.
+I am __Mochamad Dimas Putra Hermawan__, a passionate __Full Stack Developer__ and __Software Engineer__ with 9 months of work experience, including the process of building applications. Currently working as a backend-focused software developer at SuperSpring. <br>In addition to my full-time job, I also offer freelance services for developing web and mobile applications, from development to deployment. Right now, I am expanding my knowledge in AI, including machine learning and its various aspects.
 
 
 ## 🌐 Socials:

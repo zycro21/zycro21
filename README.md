@@ -3,7 +3,7 @@ I am __Mochamad Dimas Putra Hermawan__, a passionate __Full Stack Developer__ an
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@zcrn21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimasputrahermawan2103@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@zcrn21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimasputrahermawan2103@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](www.linkedin.com/in/mochamaddimasputrahermawan)
 
 # 💻 Tech Stack:
 - **Languages:**   
